@@ -1,0 +1,17 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "estudando node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Danilo Marcus",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
